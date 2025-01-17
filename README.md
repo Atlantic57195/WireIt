@@ -4,7 +4,7 @@ This PCBNEW plugin lets you add airwires (or *nets*) between pads on a PCB, dele
 This is helpful for physically connecting sets of related pins when doing
 the layout of high pin-count packages such as FPGAs.
 
-* Compatible with KiCad 4, 5, 6 and 7.
+* Compatible with KiCad 4, 5, 6, 7 and might work on 8.
 * Free software: MIT license
 
 
